@@ -1,5 +1,6 @@
 package net.mcreator.lom.procedures;
 
+import net.minecraft.util.DamageSource;
 import net.minecraft.entity.Entity;
 
 import net.mcreator.lom.LomModElements;
@@ -20,6 +21,8 @@ public class FireBook1BulletHitsLivingEntityProcedure extends LomModElements.Mod
 			return;
 		}
 		Entity entity = (Entity) dependencies.get("entity");
+		entity.attackEntityFrom(DamageSource.MAGIC, (float) 1.5);
+		entity.attackEntityFrom(DamageSource.IN_FIRE, (float) 3);
 		entity.setFire((int) 5);
 	}
 }

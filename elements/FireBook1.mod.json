@@ -7,7 +7,8 @@
     "customModelName": "Normal",
     "name": "Spell Book: Fire I",
     "specialInfo": [
-      "4.5 Magic Damage"
+      "1 Magic Damage",
+      "3.5 Fire Damage"
     ],
     "creativeTab": {
       "value": "CUSTOM:LOMTools"
@@ -26,10 +27,10 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "bulletPower": 1.0,
-    "bulletDamage": 4.5,
+    "bulletDamage": 0.0,
     "bulletKnockback": 0,
     "bulletParticles": false,
-    "bulletIgnitesFire": false,
+    "bulletIgnitesFire": true,
     "bulletItemTexture": {
       "value": "CUSTOM:FireSpellBullet"
     },

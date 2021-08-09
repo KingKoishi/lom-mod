@@ -75,7 +75,8 @@ public class FireBook1Item extends LomModElements.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("4.5 Magic Damage"));
+			list.add(new StringTextComponent("1 Magic Damage"));
+			list.add(new StringTextComponent("3.5 Fire Damage"));
 		}
 
 		@Override
@@ -107,7 +108,7 @@ public class FireBook1Item extends LomModElements.ModElement {
 						}
 					}
 					if (entity.abilities.isCreativeMode || stack != ItemStack.EMPTY) {
-						ArrowCustomEntity entityarrow = shoot(world, entity, random, 1f, 4.5, 0);
+						ArrowCustomEntity entityarrow = shoot(world, entity, random, 1f, 0, 0);
 						itemstack.damageItem(1, entity, e -> e.sendBreakAnimation(entity.getActiveHand()));
 						if (entity.abilities.isCreativeMode) {
 							entityarrow.pickupStatus = AbstractArrowEntity.PickupStatus.CREATIVE_ONLY;
@@ -201,6 +202,7 @@ public class FireBook1Item extends LomModElements.ModElement {
 		entityarrow.setIsCritical(false);
 		entityarrow.setDamage(damage);
 		entityarrow.setKnockbackStrength(knockback);
+		entityarrow.setFire(100);
 		world.addEntity(entityarrow);
 		double x = entity.getPosX();
 		double y = entity.getPosY();
@@ -218,9 +220,10 @@ public class FireBook1Item extends LomModElements.ModElement {
 		double d3 = target.getPosZ() - entity.getPosZ();
 		entityarrow.shoot(d1, d0 - entityarrow.getPosY() + (double) MathHelper.sqrt(d1 * d1 + d3 * d3) * 0.2F, d3, 1f * 2, 12.0F);
 		entityarrow.setSilent(true);
-		entityarrow.setDamage(4.5);
+		entityarrow.setDamage(0);
 		entityarrow.setKnockbackStrength(0);
 		entityarrow.setIsCritical(false);
+		entityarrow.setFire(100);
 		entity.world.addEntity(entityarrow);
 		double x = entity.getPosX();
 		double y = entity.getPosY();
