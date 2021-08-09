@@ -1,0 +1,37 @@
+{
+  "group": "cobblestone",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lom:pebble"
+    },
+    {
+      "item": "lom:pebble"
+    },
+    {
+      "item": "lom:pebble"
+    },
+    {
+      "item": "lom:pebble"
+    },
+    {
+      "item": "lom:pebble"
+    },
+    {
+      "item": "lom:pebble"
+    },
+    {
+      "item": "lom:pebble"
+    },
+    {
+      "item": "lom:pebble"
+    },
+    {
+      "item": "lom:pebble"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

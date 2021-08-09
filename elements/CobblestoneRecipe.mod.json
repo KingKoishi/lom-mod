@@ -6,41 +6,41 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
-    "group": "sand",
+    "group": "cobblestone",
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       },
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       },
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       },
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       },
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       },
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       },
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       },
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       },
       {
-        "value": "CUSTOM:PowderSand"
+        "value": "CUSTOM:Pebble"
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.SAND#0"
+      "value": "Blocks.COBBLESTONE"
     },
-    "name": "sand_recipe",
+    "name": "cobblestone_recipe",
     "namespace": "mod"
   }
 }

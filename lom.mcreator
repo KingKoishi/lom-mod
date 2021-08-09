@@ -1196,6 +1196,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "rock_lizard"
+    },
+    {
+      "name": "Pebble",
+      "type": "item",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pebble"
+    },
+    {
+      "name": "RockLiz",
+      "type": "loottable",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_liz"
+    },
+    {
+      "name": "CobblestoneRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobblestone_recipe"
     }
   ],
   "variable_elements": [],
@@ -1229,6 +1256,7 @@
       "item.lom.citrium_sword": "Citrium Sword",
       "item.lom.frost_knife": "Frost Knife",
       "itemGroup.tablom_armor": "LOM Armor",
+      "item.lom.pebble": "Pebble",
       "entity.lom.dust_devil": "Dust Devil",
       "item.lom.citrium_leggings": "Citrium Leggings",
       "advancements.ancient_guardian_slain.title": "The First of Many",

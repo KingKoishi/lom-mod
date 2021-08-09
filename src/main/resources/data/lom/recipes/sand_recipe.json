@@ -1,24 +1,35 @@
 {
   "group": "sand",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "01",
-    "23"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "lom:powder_sand"
     },
-    "1": {
+    {
       "item": "lom:powder_sand"
     },
-    "2": {
+    {
       "item": "lom:powder_sand"
     },
-    "3": {
+    {
+      "item": "lom:powder_sand"
+    },
+    {
+      "item": "lom:powder_sand"
+    },
+    {
+      "item": "lom:powder_sand"
+    },
+    {
+      "item": "lom:powder_sand"
+    },
+    {
+      "item": "lom:powder_sand"
+    },
+    {
       "item": "lom:powder_sand"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:sand",
     "count": 1
