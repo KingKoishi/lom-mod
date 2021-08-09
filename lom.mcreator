@@ -1074,24 +1074,6 @@
       "registry_name": "ender_gem_recipe"
     },
     {
-      "name": "EndermanOverride",
-      "type": "loottable",
-      "sortid": 103,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "enderman_override"
-    },
-    {
-      "name": "EnderDragonOverride",
-      "type": "loottable",
-      "sortid": 104,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ender_dragon_override"
-    },
-    {
       "name": "EnderBlade",
       "type": "tool",
       "sortid": 27,
@@ -1240,6 +1222,24 @@
           }
         ]
       }
+    },
+    {
+      "name": "EndermanOverride",
+      "type": "loottable",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderman_override"
+    },
+    {
+      "name": "EnderDragonOverride",
+      "type": "loottable",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_dragon_override"
     }
   ],
   "variable_elements": [],

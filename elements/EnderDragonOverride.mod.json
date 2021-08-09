@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "loottable",
   "definition": {
-    "type": "Generic",
+    "type": "Entity",
     "pools": [
       {
         "minrolls": 1,
@@ -17,8 +17,8 @@
               "value": "CUSTOM:EnderShard"
             },
             "weight": 1,
-            "minCount": 5,
-            "maxCount": 12,
+            "minCount": 9,
+            "maxCount": 17,
             "minEnchantmentLevel": 0,
             "maxEnchantmentLevel": 0,
             "affectedByFortune": true,
@@ -28,7 +28,7 @@
         ]
       }
     ],
-    "name": "ender_dragon_override",
-    "namespace": "mod"
+    "name": "entities/ender_dragon",
+    "namespace": "minecraft"
   }
 }

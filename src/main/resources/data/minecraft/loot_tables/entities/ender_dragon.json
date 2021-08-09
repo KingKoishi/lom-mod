@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:generic",
+  "type": "minecraft:entity",
   "pools": [
     {
       "rolls": 1,
@@ -12,8 +12,8 @@
             {
               "function": "set_count",
               "count": {
-                "min": 5,
-                "max": 12
+                "min": 9,
+                "max": 17
               }
             },
             {

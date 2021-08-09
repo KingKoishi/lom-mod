@@ -79,7 +79,7 @@
         ]
       }
     ],
-    "name": "minecraft/enderman",
+    "name": "entities/enderman",
     "namespace": "minecraft"
   }
 }
