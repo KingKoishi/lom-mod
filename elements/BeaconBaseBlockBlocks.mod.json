@@ -4,7 +4,11 @@
   "definition": {
     "type": "Blocks",
     "items": [],
-    "blocks": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:BlockofCitrium"
+      }
+    ],
     "functions": [],
     "entities": [],
     "name": "beacon_base_blocks",
