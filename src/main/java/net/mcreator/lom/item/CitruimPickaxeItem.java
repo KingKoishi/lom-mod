@@ -14,7 +14,7 @@ import net.mcreator.lom.LomModElements;
 
 @LomModElements.ModElement.Tag
 public class CitruimPickaxeItem extends LomModElements.ModElement {
-	@ObjectHolder("lom:citruim_pickaxe")
+	@ObjectHolder("lom:citrium_pickaxe")
 	public static final Item block = null;
 	public CitruimPickaxeItem(LomModElements instance) {
 		super(instance, 23);
@@ -47,6 +47,6 @@ public class CitruimPickaxeItem extends LomModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(CitriumIngotItem.block, (int) (1)));
 			}
 		}, 1, -2.8f, new Item.Properties().group(LOMToolsItemGroup.tab)) {
-		}.setRegistryName("citruim_pickaxe"));
+		}.setRegistryName("citrium_pickaxe"));
 	}
 }
