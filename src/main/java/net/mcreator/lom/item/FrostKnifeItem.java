@@ -27,7 +27,7 @@ public class FrostKnifeItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:frost_knife")
 	public static final Item block = null;
 	public FrostKnifeItem(LomModElements instance) {
-		super(instance, 29);
+		super(instance, 35);
 	}
 
 	@Override

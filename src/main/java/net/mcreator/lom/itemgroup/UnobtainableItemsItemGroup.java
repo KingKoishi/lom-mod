@@ -13,7 +13,7 @@ import net.mcreator.lom.LomModElements;
 @LomModElements.ModElement.Tag
 public class UnobtainableItemsItemGroup extends LomModElements.ModElement {
 	public UnobtainableItemsItemGroup(LomModElements instance) {
-		super(instance, 95);
+		super(instance, 103);
 	}
 
 	@Override

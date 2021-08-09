@@ -51,7 +51,7 @@ public class FireBook1Item extends LomModElements.ModElement {
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).setCustomClientFactory(ArrowCustomEntity::new)
 			.size(0.5f, 0.5f)).build("entitybulletfire_book_1").setRegistryName("entitybulletfire_book_1");
 	public FireBook1Item(LomModElements instance) {
-		super(instance, 121);
+		super(instance, 34);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FireBook1Renderer.ModelRegisterHandler());
 	}
 

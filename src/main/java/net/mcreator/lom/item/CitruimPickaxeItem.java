@@ -17,7 +17,7 @@ public class CitruimPickaxeItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:citrium_pickaxe")
 	public static final Item block = null;
 	public CitruimPickaxeItem(LomModElements instance) {
-		super(instance, 23);
+		super(instance, 28);
 	}
 
 	@Override

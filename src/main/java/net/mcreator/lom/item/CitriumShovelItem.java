@@ -17,7 +17,7 @@ public class CitriumShovelItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:citrium_shovel")
 	public static final Item block = null;
 	public CitriumShovelItem(LomModElements instance) {
-		super(instance, 25);
+		super(instance, 30);
 	}
 
 	@Override

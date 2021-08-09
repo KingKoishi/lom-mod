@@ -10,7 +10,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class RockLizardOnInitialEntitySpawnProcedure extends LomModElements.ModElement {
 	public RockLizardOnInitialEntitySpawnProcedure(LomModElements instance) {
-		super(instance, 111);
+		super(instance, 117);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

@@ -22,7 +22,7 @@ public class PowderSandItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:powder_sand")
 	public static final Item block = null;
 	public PowderSandItem(LomModElements instance) {
-		super(instance, 16);
+		super(instance, 20);
 	}
 
 	@Override

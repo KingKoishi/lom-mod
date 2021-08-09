@@ -24,7 +24,7 @@ import java.util.HashMap;
 @LomModElements.ModElement.Tag
 public class NethericShardDropInNetherProcedure extends LomModElements.ModElement {
 	public NethericShardDropInNetherProcedure(LomModElements instance) {
-		super(instance, 99);
+		super(instance, 107);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

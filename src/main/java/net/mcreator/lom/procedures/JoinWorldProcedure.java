@@ -21,7 +21,7 @@ import java.util.HashMap;
 @LomModElements.ModElement.Tag
 public class JoinWorldProcedure extends LomModElements.ModElement {
 	public JoinWorldProcedure(LomModElements instance) {
-		super(instance, 62);
+		super(instance, 71);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

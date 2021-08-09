@@ -13,7 +13,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class FrostKnifeLivingEntityIsHitWithToolProcedure extends LomModElements.ModElement {
 	public FrostKnifeLivingEntityIsHitWithToolProcedure(LomModElements instance) {
-		super(instance, 71);
+		super(instance, 80);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

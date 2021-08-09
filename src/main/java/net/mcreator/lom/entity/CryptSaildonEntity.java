@@ -46,7 +46,7 @@ public class CryptSaildonEntity extends LomModElements.ModElement {
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
 			.size(0.7f, 1.3f)).build("crypt_saildon").setRegistryName("crypt_saildon");
 	public CryptSaildonEntity(LomModElements instance) {
-		super(instance, 18);
+		super(instance, 22);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new CryptSaildonRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

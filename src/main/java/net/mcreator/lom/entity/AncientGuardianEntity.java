@@ -45,7 +45,7 @@ public class AncientGuardianEntity extends LomModElements.ModElement {
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
 			.size(0.6f, 1.8f)).build("ancient_guardian").setRegistryName("ancient_guardian");
 	public AncientGuardianEntity(LomModElements instance) {
-		super(instance, 46);
+		super(instance, 55);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new AncientGuardianRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 	}

@@ -13,7 +13,7 @@ import net.mcreator.lom.LomModElements;
 @LomModElements.ModElement.Tag
 public class LOMToolsItemGroup extends LomModElements.ModElement {
 	public LOMToolsItemGroup(LomModElements instance) {
-		super(instance, 80);
+		super(instance, 89);
 	}
 
 	@Override

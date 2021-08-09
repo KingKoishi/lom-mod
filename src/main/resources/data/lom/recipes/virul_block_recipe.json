@@ -1,0 +1,37 @@
+{
+  "group": "virul_block",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lom:virul_ingot"
+    },
+    {
+      "item": "lom:virul_ingot"
+    },
+    {
+      "item": "lom:virul_ingot"
+    },
+    {
+      "item": "lom:virul_ingot"
+    },
+    {
+      "item": "lom:virul_ingot"
+    },
+    {
+      "item": "lom:virul_ingot"
+    },
+    {
+      "item": "lom:virul_ingot"
+    },
+    {
+      "item": "lom:virul_ingot"
+    },
+    {
+      "item": "lom:virul_ingot"
+    }
+  ],
+  "result": {
+    "item": "lom:block_of_virul",
+    "count": 1
+  }
+}

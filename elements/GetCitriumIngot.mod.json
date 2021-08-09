@@ -2,8 +2,8 @@
   "_fv": 18,
   "_type": "achievement",
   "definition": {
-    "achievementName": "Get Citrium Ingot",
-    "achievementDescription": "Obtain a citrium ingot",
+    "achievementName": "Citrine",
+    "achievementDescription": "Smelt a citrium ingot",
     "achievementIcon": {
       "value": "CUSTOM:CitriumIngot"
     },

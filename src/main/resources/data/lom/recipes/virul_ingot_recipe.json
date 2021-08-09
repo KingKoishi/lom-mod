@@ -1,0 +1,13 @@
+{
+  "group": "virul_ingot",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lom:block_of_virul"
+    }
+  ],
+  "result": {
+    "item": "lom:virul_ingot",
+    "count": 9
+  }
+}

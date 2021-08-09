@@ -24,7 +24,7 @@ import java.util.HashMap;
 @LomModElements.ModElement.Tag
 public class EnderShardDropInTheEndProcedure extends LomModElements.ModElement {
 	public EnderShardDropInTheEndProcedure(LomModElements instance) {
-		super(instance, 100);
+		super(instance, 108);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

@@ -24,7 +24,7 @@ import java.util.HashMap;
 @LomModElements.ModElement.Tag
 public class PelagicShardDropInWaterBiomeProcedure extends LomModElements.ModElement {
 	public PelagicShardDropInWaterBiomeProcedure(LomModElements instance) {
-		super(instance, 68);
+		super(instance, 77);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

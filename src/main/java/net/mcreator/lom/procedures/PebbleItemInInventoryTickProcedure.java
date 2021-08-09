@@ -12,7 +12,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class PebbleItemInInventoryTickProcedure extends LomModElements.ModElement {
 	public PebbleItemInInventoryTickProcedure(LomModElements instance) {
-		super(instance, 115);
+		super(instance, 120);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

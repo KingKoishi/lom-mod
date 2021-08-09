@@ -16,7 +16,7 @@ public class FrostShardItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:frost_shard")
 	public static final Item block = null;
 	public FrostShardItem(LomModElements instance) {
-		super(instance, 13);
+		super(instance, 16);
 	}
 
 	@Override

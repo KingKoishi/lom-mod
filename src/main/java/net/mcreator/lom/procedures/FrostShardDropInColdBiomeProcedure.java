@@ -21,7 +21,7 @@ import java.util.HashMap;
 @LomModElements.ModElement.Tag
 public class FrostShardDropInColdBiomeProcedure extends LomModElements.ModElement {
 	public FrostShardDropInColdBiomeProcedure(LomModElements instance) {
-		super(instance, 67);
+		super(instance, 76);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

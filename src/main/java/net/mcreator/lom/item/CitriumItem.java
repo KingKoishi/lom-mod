@@ -29,7 +29,7 @@ public class CitriumItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:citrium_boots")
 	public static final Item boots = null;
 	public CitriumItem(LomModElements instance) {
-		super(instance, 30);
+		super(instance, 37);
 	}
 
 	@Override

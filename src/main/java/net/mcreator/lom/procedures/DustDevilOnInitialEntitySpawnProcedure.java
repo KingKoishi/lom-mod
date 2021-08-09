@@ -10,7 +10,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class DustDevilOnInitialEntitySpawnProcedure extends LomModElements.ModElement {
 	public DustDevilOnInitialEntitySpawnProcedure(LomModElements instance) {
-		super(instance, 109);
+		super(instance, 115);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

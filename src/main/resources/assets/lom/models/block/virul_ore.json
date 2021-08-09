@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lom:blocks/virul_ore",
+    "particle": "lom:blocks/virul_ore"
+  }
+}

@@ -25,7 +25,7 @@ import java.util.HashMap;
 @LomModElements.ModElement.Tag
 public class CheckIfAnyShardIsInPlayerInventoryProcedure extends LomModElements.ModElement {
 	public CheckIfAnyShardIsInPlayerInventoryProcedure(LomModElements instance) {
-		super(instance, 98);
+		super(instance, 106);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

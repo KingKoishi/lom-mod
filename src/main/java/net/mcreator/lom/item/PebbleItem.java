@@ -22,7 +22,7 @@ public class PebbleItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:pebble")
 	public static final Item block = null;
 	public PebbleItem(LomModElements instance) {
-		super(instance, 112);
+		super(instance, 19);
 	}
 
 	@Override

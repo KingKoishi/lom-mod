@@ -24,7 +24,7 @@ import net.mcreator.lom.LomModElements;
 public class DustDevilSmokeParticle extends LomModElements.ModElement {
 	public static final BasicParticleType particle = new BasicParticleType(false);
 	public DustDevilSmokeParticle(LomModElements instance) {
-		super(instance, 110);
+		super(instance, 116);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

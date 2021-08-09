@@ -17,7 +17,7 @@ public class CitriumAxeItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:citrium_axe")
 	public static final Item block = null;
 	public CitriumAxeItem(LomModElements instance) {
-		super(instance, 24);
+		super(instance, 29);
 	}
 
 	@Override

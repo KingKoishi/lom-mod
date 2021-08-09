@@ -16,7 +16,7 @@ public class AncientShardItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:ancient_shard")
 	public static final Item block = null;
 	public AncientShardItem(LomModElements instance) {
-		super(instance, 11);
+		super(instance, 14);
 	}
 
 	@Override

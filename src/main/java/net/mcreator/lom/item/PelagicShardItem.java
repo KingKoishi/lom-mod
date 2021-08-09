@@ -16,7 +16,7 @@ public class PelagicShardItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:pelagic_shard")
 	public static final Item block = null;
 	public PelagicShardItem(LomModElements instance) {
-		super(instance, 15);
+		super(instance, 18);
 	}
 
 	@Override

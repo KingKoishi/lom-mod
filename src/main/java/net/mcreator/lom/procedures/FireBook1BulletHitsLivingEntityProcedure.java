@@ -10,7 +10,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class FireBook1BulletHitsLivingEntityProcedure extends LomModElements.ModElement {
 	public FireBook1BulletHitsLivingEntityProcedure(LomModElements instance) {
-		super(instance, 121);
+		super(instance, 124);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

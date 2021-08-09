@@ -13,7 +13,7 @@ import net.mcreator.lom.LomModElements;
 @LomModElements.ModElement.Tag
 public class LOMCreaturesItemGroup extends LomModElements.ModElement {
 	public LOMCreaturesItemGroup(LomModElements instance) {
-		super(instance, 50);
+		super(instance, 59);
 	}
 
 	@Override

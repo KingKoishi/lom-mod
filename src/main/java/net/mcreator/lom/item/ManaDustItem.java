@@ -18,7 +18,7 @@ public class ManaDustItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:mana_dust")
 	public static final Item block = null;
 	public ManaDustItem(LomModElements instance) {
-		super(instance, 118);
+		super(instance, 13);
 	}
 
 	@Override

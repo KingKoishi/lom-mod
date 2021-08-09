@@ -17,7 +17,7 @@ public class EnderBladeItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:ender_blade")
 	public static final Item block = null;
 	public EnderBladeItem(LomModElements instance) {
-		super(instance, 27);
+		super(instance, 32);
 	}
 
 	@Override

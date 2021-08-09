@@ -16,7 +16,7 @@ public class EnderShardItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:ender_shard")
 	public static final Item block = null;
 	public EnderShardItem(LomModElements instance) {
-		super(instance, 12);
+		super(instance, 15);
 	}
 
 	@Override

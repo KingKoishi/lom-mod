@@ -16,7 +16,7 @@ public class FireSpellBulletItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:fire_spell_bullet")
 	public static final Item block = null;
 	public FireSpellBulletItem(LomModElements instance) {
-		super(instance, 119);
+		super(instance, 40);
 	}
 
 	@Override

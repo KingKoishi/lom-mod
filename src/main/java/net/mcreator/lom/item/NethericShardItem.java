@@ -16,7 +16,7 @@ public class NethericShardItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:netheric_shard")
 	public static final Item block = null;
 	public NethericShardItem(LomModElements instance) {
-		super(instance, 14);
+		super(instance, 17);
 	}
 
 	@Override

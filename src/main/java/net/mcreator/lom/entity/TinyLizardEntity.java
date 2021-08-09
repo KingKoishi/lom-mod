@@ -44,7 +44,7 @@ public class TinyLizardEntity extends LomModElements.ModElement {
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
 			.size(0.7f, 0.5f)).build("tiny_lizard").setRegistryName("tiny_lizard");
 	public TinyLizardEntity(LomModElements instance) {
-		super(instance, 21);
+		super(instance, 25);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new TinyLizardRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

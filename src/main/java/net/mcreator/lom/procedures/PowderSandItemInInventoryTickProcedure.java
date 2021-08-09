@@ -12,7 +12,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class PowderSandItemInInventoryTickProcedure extends LomModElements.ModElement {
 	public PowderSandItemInInventoryTickProcedure(LomModElements instance) {
-		super(instance, 77);
+		super(instance, 86);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

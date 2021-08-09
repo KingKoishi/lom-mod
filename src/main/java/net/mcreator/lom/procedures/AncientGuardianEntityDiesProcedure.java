@@ -16,7 +16,7 @@ import java.util.Iterator;
 @LomModElements.ModElement.Tag
 public class AncientGuardianEntityDiesProcedure extends LomModElements.ModElement {
 	public AncientGuardianEntityDiesProcedure(LomModElements instance) {
-		super(instance, 45);
+		super(instance, 54);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

@@ -1,0 +1,36 @@
+{
+  "group": "virul_leggings",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:virul_ingot"
+    },
+    "1": {
+      "item": "lom:virul_ingot"
+    },
+    "2": {
+      "item": "lom:virul_ingot"
+    },
+    "3": {
+      "item": "lom:virul_ingot"
+    },
+    "5": {
+      "item": "lom:virul_ingot"
+    },
+    "6": {
+      "item": "lom:virul_ingot"
+    },
+    "8": {
+      "item": "lom:virul_ingot"
+    }
+  },
+  "result": {
+    "item": "lom:virul_leggings",
+    "count": 1
+  }
+}

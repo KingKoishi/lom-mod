@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "virul_leggings",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:VirulIngot"
+      },
+      {
+        "value": "CUSTOM:VirulIngot"
+      },
+      {
+        "value": "CUSTOM:VirulIngot"
+      },
+      {
+        "value": "CUSTOM:VirulIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:VirulIngot"
+      },
+      {
+        "value": "CUSTOM:VirulIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:VirulIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Virul.legs"
+    },
+    "name": "virul_leggings_recipe",
+    "namespace": "mod"
+  }
+}

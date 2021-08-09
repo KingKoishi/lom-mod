@@ -35,7 +35,7 @@ public class PelagicItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:pelagic_boots")
 	public static final Item boots = null;
 	public PelagicItem(LomModElements instance) {
-		super(instance, 31);
+		super(instance, 38);
 	}
 
 	@Override

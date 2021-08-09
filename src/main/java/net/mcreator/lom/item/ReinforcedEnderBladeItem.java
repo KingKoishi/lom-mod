@@ -18,7 +18,7 @@ public class ReinforcedEnderBladeItem extends LomModElements.ModElement {
 	@ObjectHolder("lom:reinforced_ender_blade")
 	public static final Item block = null;
 	public ReinforcedEnderBladeItem(LomModElements instance) {
-		super(instance, 28);
+		super(instance, 33);
 	}
 
 	@Override

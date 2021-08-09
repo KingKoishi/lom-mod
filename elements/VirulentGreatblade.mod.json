@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "virulent_greatblade",
+    "customModelName": "Normal",
+    "name": "Virulent Greatblade",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:LOMTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 0.8,
+    "enchantability": 14,
+    "damageVsEntity": 9.0,
+    "usageCount": 775,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:VirulIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

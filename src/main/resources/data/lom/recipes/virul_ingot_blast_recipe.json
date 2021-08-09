@@ -1,0 +1,12 @@
+{
+  "group": "virul_ingot",
+  "type": "minecraft:blasting",
+  "experience": 1.2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "lom:virul_ore"
+  },
+  "result": {
+    "item": "lom:virul_ingot"
+  }
+}

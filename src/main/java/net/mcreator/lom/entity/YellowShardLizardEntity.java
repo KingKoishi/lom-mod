@@ -54,7 +54,7 @@ public class YellowShardLizardEntity extends LomModElements.ModElement {
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
 			.size(0.7f, 0.5f)).build("yellow_shard_lizard").setRegistryName("yellow_shard_lizard");
 	public YellowShardLizardEntity(LomModElements instance) {
-		super(instance, 20);
+		super(instance, 24);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new YellowShardLizardRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

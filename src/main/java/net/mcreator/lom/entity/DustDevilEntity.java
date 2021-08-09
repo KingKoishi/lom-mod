@@ -68,7 +68,7 @@ public class DustDevilEntity extends LomModElements.ModElement {
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
 			.size(0.6f, 1.8f)).build("dust_devil").setRegistryName("dust_devil");
 	public DustDevilEntity(LomModElements instance) {
-		super(instance, 19);
+		super(instance, 23);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new DustDevilRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

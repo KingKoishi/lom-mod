@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.2,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "virul_ingot",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:VirulOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:VirulIngot"
+    },
+    "name": "virul_ingot_blast_recipe",
+    "namespace": "mod"
+  }
+}

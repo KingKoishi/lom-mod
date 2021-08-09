@@ -18,7 +18,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class RelicSpawnAncientGuardianProcedure extends LomModElements.ModElement {
 	public RelicSpawnAncientGuardianProcedure(LomModElements instance) {
-		super(instance, 47);
+		super(instance, 56);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

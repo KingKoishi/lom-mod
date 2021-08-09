@@ -13,7 +13,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class PelagicHelmetTickEventProcedure extends LomModElements.ModElement {
 	public PelagicHelmetTickEventProcedure(LomModElements instance) {
-		super(instance, 73);
+		super(instance, 82);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

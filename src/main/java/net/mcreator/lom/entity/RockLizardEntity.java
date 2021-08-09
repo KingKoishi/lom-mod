@@ -55,7 +55,7 @@ public class RockLizardEntity extends LomModElements.ModElement {
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
 			.size(0.7f, 0.5f)).build("rock_lizard").setRegistryName("rock_lizard");
 	public RockLizardEntity(LomModElements instance) {
-		super(instance, 111);
+		super(instance, 26);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new RockLizardRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

@@ -10,7 +10,7 @@ import java.util.Map;
 @LomModElements.ModElement.Tag
 public class YellowShardLizardOnInitialEntitySpawnProcedure extends LomModElements.ModElement {
 	public YellowShardLizardOnInitialEntitySpawnProcedure(LomModElements instance) {
-		super(instance, 63);
+		super(instance, 72);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

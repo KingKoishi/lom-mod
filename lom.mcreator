@@ -13,7 +13,7 @@
     {
       "name": "AncientShard",
       "type": "item",
-      "sortid": 11,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,7 +22,7 @@
     {
       "name": "LOMBlocks",
       "type": "tab",
-      "sortid": 32,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -31,7 +31,7 @@
     {
       "name": "LOMItems",
       "type": "tab",
-      "sortid": 33,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -40,7 +40,7 @@
     {
       "name": "AncientRockRecipe",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -49,7 +49,7 @@
     {
       "name": "YellowShardLizard",
       "type": "mob",
-      "sortid": 20,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -58,7 +58,7 @@
     {
       "name": "YShardLizard",
       "type": "loottable",
-      "sortid": 35,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -67,7 +67,7 @@
     {
       "name": "Reptile",
       "type": "tag",
-      "sortid": 36,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -85,7 +85,7 @@
     {
       "name": "MossyAncientRockB",
       "type": "loottable",
-      "sortid": 37,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -94,7 +94,7 @@
     {
       "name": "TinyLizard",
       "type": "mob",
-      "sortid": 21,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -103,7 +103,7 @@
     {
       "name": "AncientRelic",
       "type": "gun",
-      "sortid": 17,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -112,7 +112,7 @@
     {
       "name": "AncientRelicRecipe",
       "type": "recipe",
-      "sortid": 38,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -121,7 +121,7 @@
     {
       "name": "Boss",
       "type": "tag",
-      "sortid": 39,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -130,7 +130,7 @@
     {
       "name": "Miniboss",
       "type": "tag",
-      "sortid": 40,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -139,7 +139,7 @@
     {
       "name": "LandsOfMayhem",
       "type": "achievement",
-      "sortid": 41,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -148,7 +148,7 @@
     {
       "name": "GetAncientShard",
       "type": "achievement",
-      "sortid": 42,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -157,7 +157,7 @@
     {
       "name": "PlaceAncientRock",
       "type": "achievement",
-      "sortid": 43,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -166,7 +166,7 @@
     {
       "name": "Player",
       "type": "tag",
-      "sortid": 44,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -175,7 +175,7 @@
     {
       "name": "AncientGuardianEntityDies",
       "type": "procedure",
-      "sortid": 45,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -192,7 +192,7 @@
     {
       "name": "AncientGuardian",
       "type": "mob",
-      "sortid": 46,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -201,7 +201,7 @@
     {
       "name": "RelicSpawnAncientGuardian",
       "type": "procedure",
-      "sortid": 47,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -230,7 +230,7 @@
     {
       "name": "AncientGuard",
       "type": "loottable",
-      "sortid": 48,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -239,7 +239,7 @@
     {
       "name": "Construct",
       "type": "tag",
-      "sortid": 49,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -248,7 +248,7 @@
     {
       "name": "LOMCreatures",
       "type": "tab",
-      "sortid": 50,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -257,7 +257,7 @@
     {
       "name": "Elemental",
       "type": "tag",
-      "sortid": 51,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -266,7 +266,7 @@
     {
       "name": "BaseStone",
       "type": "tag",
-      "sortid": 52,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -275,7 +275,7 @@
     {
       "name": "DirtBlocks",
       "type": "tag",
-      "sortid": 53,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -284,7 +284,7 @@
     {
       "name": "LogBlocks",
       "type": "tag",
-      "sortid": 54,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -293,7 +293,7 @@
     {
       "name": "BeaconBaseBlockBlocks",
       "type": "tag",
-      "sortid": 55,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -302,7 +302,7 @@
     {
       "name": "LeaveBlocks",
       "type": "tag",
-      "sortid": 56,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -311,7 +311,7 @@
     {
       "name": "FireBlocks",
       "type": "tag",
-      "sortid": 57,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -320,7 +320,7 @@
     {
       "name": "DragonImmuneBlocks",
       "type": "tag",
-      "sortid": 58,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -329,7 +329,7 @@
     {
       "name": "WitherImmuneBlocks",
       "type": "tag",
-      "sortid": 59,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -338,7 +338,7 @@
     {
       "name": "PlankItems",
       "type": "tag",
-      "sortid": 60,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -347,7 +347,7 @@
     {
       "name": "CryptSaildon",
       "type": "mob",
-      "sortid": 18,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -356,7 +356,7 @@
     {
       "name": "CryptSail",
       "type": "loottable",
-      "sortid": 61,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -365,7 +365,7 @@
     {
       "name": "JoinWorld",
       "type": "procedure",
-      "sortid": 62,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -391,7 +391,7 @@
     {
       "name": "YellowShardLizardOnInitialEntitySpawn",
       "type": "procedure",
-      "sortid": 63,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -408,7 +408,7 @@
     {
       "name": "AncientGuardianSlain",
       "type": "achievement",
-      "sortid": 64,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -417,7 +417,7 @@
     {
       "name": "FrostShard",
       "type": "item",
-      "sortid": 13,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -435,7 +435,7 @@
     {
       "name": "PelagicShard",
       "type": "item",
-      "sortid": 15,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -453,7 +453,7 @@
     {
       "name": "FrostGemRecipe",
       "type": "recipe",
-      "sortid": 65,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -462,7 +462,7 @@
     {
       "name": "PelagicGemRecipe",
       "type": "recipe",
-      "sortid": 66,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -471,7 +471,7 @@
     {
       "name": "FrostShardDropInColdBiome",
       "type": "procedure",
-      "sortid": 67,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -500,7 +500,7 @@
     {
       "name": "PelagicShardDropInWaterBiome",
       "type": "procedure",
-      "sortid": 68,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -529,7 +529,7 @@
     {
       "name": "GetFrostShard",
       "type": "achievement",
-      "sortid": 69,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -538,7 +538,7 @@
     {
       "name": "GetPelagicShard",
       "type": "achievement",
-      "sortid": 70,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -547,7 +547,7 @@
     {
       "name": "FrostKnifeLivingEntityIsHitWithTool",
       "type": "procedure",
-      "sortid": 71,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -564,7 +564,7 @@
     {
       "name": "FrostKnife",
       "type": "tool",
-      "sortid": 29,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -573,7 +573,7 @@
     {
       "name": "FrostKnifeRecipe",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -582,7 +582,7 @@
     {
       "name": "PelagicHelmetTickEvent",
       "type": "procedure",
-      "sortid": 73,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -599,7 +599,7 @@
     {
       "name": "Pelagic",
       "type": "armor",
-      "sortid": 31,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -614,7 +614,7 @@
     {
       "name": "PelagicHelm",
       "type": "recipe",
-      "sortid": 74,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -623,7 +623,7 @@
     {
       "name": "DustDevil",
       "type": "mob",
-      "sortid": 19,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -632,7 +632,7 @@
     {
       "name": "PowderSand",
       "type": "item",
-      "sortid": 16,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -641,7 +641,7 @@
     {
       "name": "SandRecipe",
       "type": "recipe",
-      "sortid": 75,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -650,7 +650,7 @@
     {
       "name": "DustDev",
       "type": "loottable",
-      "sortid": 76,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -659,7 +659,7 @@
     {
       "name": "PowderSandItemInInventoryTick",
       "type": "procedure",
-      "sortid": 77,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -685,7 +685,7 @@
     {
       "name": "CitriumIngot",
       "type": "item",
-      "sortid": 5,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -694,7 +694,7 @@
     {
       "name": "CitriumIngotFurnaceRecipe",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -703,7 +703,7 @@
     {
       "name": "CitriumIngotBlastRecipe",
       "type": "recipe",
-      "sortid": 79,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -712,7 +712,7 @@
     {
       "name": "CitriumSword",
       "type": "tool",
-      "sortid": 22,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -721,7 +721,7 @@
     {
       "name": "CitruimPickaxe",
       "type": "tool",
-      "sortid": 23,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -730,7 +730,7 @@
     {
       "name": "CitriumAxe",
       "type": "tool",
-      "sortid": 24,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -739,7 +739,7 @@
     {
       "name": "CitriumShovel",
       "type": "tool",
-      "sortid": 25,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -748,7 +748,7 @@
     {
       "name": "CitriumHoe",
       "type": "tool",
-      "sortid": 26,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -757,7 +757,7 @@
     {
       "name": "LOMTools",
       "type": "tab",
-      "sortid": 80,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -766,7 +766,7 @@
     {
       "name": "Citrium",
       "type": "armor",
-      "sortid": 30,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -781,7 +781,7 @@
     {
       "name": "LOMArmor",
       "type": "tab",
-      "sortid": 81,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -799,7 +799,7 @@
     {
       "name": "CitriumBlockRecipe",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -808,7 +808,7 @@
     {
       "name": "CitriumIngotRecipe",
       "type": "recipe",
-      "sortid": 83,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -817,7 +817,7 @@
     {
       "name": "CitriumSwordRecipe",
       "type": "recipe",
-      "sortid": 84,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -826,7 +826,7 @@
     {
       "name": "CitriumPickaxeRecipe",
       "type": "recipe",
-      "sortid": 85,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -835,7 +835,7 @@
     {
       "name": "CitriumAxeRecipe",
       "type": "recipe",
-      "sortid": 86,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -844,7 +844,7 @@
     {
       "name": "CitriumShovelRecipe",
       "type": "recipe",
-      "sortid": 87,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -853,7 +853,7 @@
     {
       "name": "CitriumHoeRecipe",
       "type": "recipe",
-      "sortid": 88,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -862,7 +862,7 @@
     {
       "name": "CitriumHelmetRecipe",
       "type": "recipe",
-      "sortid": 89,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -871,7 +871,7 @@
     {
       "name": "CitriumChestplateRecipe",
       "type": "recipe",
-      "sortid": 90,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -880,7 +880,7 @@
     {
       "name": "CitriumLeggingsRecipe",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -889,7 +889,7 @@
     {
       "name": "CitriumBootsRecipe",
       "type": "recipe",
-      "sortid": 92,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -898,25 +898,16 @@
     {
       "name": "GetCitriumIngot",
       "type": "achievement",
-      "sortid": 93,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "get_citrium_ingot"
     },
     {
-      "name": "CitriumOreRecipes",
-      "type": "achievement",
-      "sortid": 94,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "citrium_ore_recipes"
-    },
-    {
       "name": "UnobtainableItems",
       "type": "tab",
-      "sortid": 95,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -925,7 +916,7 @@
     {
       "name": "Shard",
       "type": "tag",
-      "sortid": 96,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -934,7 +925,7 @@
     {
       "name": "GetAnyShard",
       "type": "achievement",
-      "sortid": 97,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -943,7 +934,7 @@
     {
       "name": "CheckIfAnyShardIsInPlayerInventory",
       "type": "procedure",
-      "sortid": 98,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -964,7 +955,7 @@
     {
       "name": "NethericShard",
       "type": "item",
-      "sortid": 14,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -982,7 +973,7 @@
     {
       "name": "EnderShard",
       "type": "item",
-      "sortid": 12,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1000,7 +991,7 @@
     {
       "name": "NethericShardDropInNether",
       "type": "procedure",
-      "sortid": 99,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1029,7 +1020,7 @@
     {
       "name": "EnderShardDropInTheEnd",
       "type": "procedure",
-      "sortid": 100,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1058,7 +1049,7 @@
     {
       "name": "NethericGemRecipe",
       "type": "recipe",
-      "sortid": 101,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1067,7 +1058,7 @@
     {
       "name": "EnderGemRecipe",
       "type": "recipe",
-      "sortid": 102,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1076,7 +1067,7 @@
     {
       "name": "EnderBlade",
       "type": "tool",
-      "sortid": 27,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1085,7 +1076,7 @@
     {
       "name": "EnderBladeRecipe",
       "type": "recipe",
-      "sortid": 105,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1094,7 +1085,7 @@
     {
       "name": "ReinforcedEnderBlade",
       "type": "tool",
-      "sortid": 28,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1103,7 +1094,7 @@
     {
       "name": "ReinforceEnderBladeSmithing",
       "type": "recipe",
-      "sortid": 106,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1112,7 +1103,7 @@
     {
       "name": "GetNethericShard",
       "type": "achievement",
-      "sortid": 107,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1121,7 +1112,7 @@
     {
       "name": "GetEnderShard",
       "type": "achievement",
-      "sortid": 108,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1130,7 +1121,7 @@
     {
       "name": "DustDevilOnInitialEntitySpawn",
       "type": "procedure",
-      "sortid": 109,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1147,7 +1138,7 @@
     {
       "name": "DustDevilSmoke",
       "type": "particle",
-      "sortid": 110,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1156,7 +1147,7 @@
     {
       "name": "RockLizardOnInitialEntitySpawn",
       "type": "procedure",
-      "sortid": 111,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1173,7 +1164,7 @@
     {
       "name": "RockLizard",
       "type": "mob",
-      "sortid": 111,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1182,7 +1173,7 @@
     {
       "name": "Pebble",
       "type": "item",
-      "sortid": 112,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1191,7 +1182,7 @@
     {
       "name": "RockLiz",
       "type": "loottable",
-      "sortid": 113,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1200,7 +1191,7 @@
     {
       "name": "CobblestoneRecipe",
       "type": "recipe",
-      "sortid": 114,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1209,7 +1200,7 @@
     {
       "name": "PebbleItemInInventoryTick",
       "type": "procedure",
-      "sortid": 115,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1226,7 +1217,7 @@
     {
       "name": "EndermanOverride",
       "type": "loottable",
-      "sortid": 116,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1235,7 +1226,7 @@
     {
       "name": "EnderDragonOverride",
       "type": "loottable",
-      "sortid": 117,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1244,7 +1235,7 @@
     {
       "name": "ManaDust",
       "type": "item",
-      "sortid": 118,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1253,7 +1244,7 @@
     {
       "name": "FireSpellBullet",
       "type": "item",
-      "sortid": 119,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1262,7 +1253,7 @@
     {
       "name": "ManaDustRecipe",
       "type": "recipe",
-      "sortid": 120,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1271,7 +1262,7 @@
     {
       "name": "FireBook1BulletHitsLivingEntity",
       "type": "procedure",
-      "sortid": 121,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1288,7 +1279,7 @@
     {
       "name": "FireBook1",
       "type": "gun",
-      "sortid": 121,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1297,7 +1288,7 @@
     {
       "name": "FireBook1Recipe",
       "type": "recipe",
-      "sortid": 122,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1306,7 +1297,7 @@
     {
       "name": "GetLapis",
       "type": "achievement",
-      "sortid": 123,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1315,30 +1306,209 @@
     {
       "name": "GetManaDust",
       "type": "achievement",
-      "sortid": 124,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "get_mana_dust"
+    },
+    {
+      "name": "VirulOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_ore"
+    },
+    {
+      "name": "VirulIngot",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_ingot"
+    },
+    {
+      "name": "CitriumOreBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_ore_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VirulOreBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_ore_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VirulIngotFurnaceRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_ingot_furnace_recipe"
+    },
+    {
+      "name": "VirulIngotBlastRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_ingot_blast_recipe"
+    },
+    {
+      "name": "GetVirulIngot",
+      "type": "achievement",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_virul_ingot"
+    },
+    {
+      "name": "Virul",
+      "type": "armor",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "VirulentGreatblade",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virulent_greatblade"
+    },
+    {
+      "name": "VirulHelmetRecipe",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_helmet_recipe"
+    },
+    {
+      "name": "VirulChestplateRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_chestplate_recipe"
+    },
+    {
+      "name": "VirulLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_leggings_recipe"
+    },
+    {
+      "name": "VirulBootsRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_boots_recipe"
+    },
+    {
+      "name": "VirulentGreatbladeRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virulent_greatblade_recipe"
+    },
+    {
+      "name": "BlockOfVirul",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_virul"
+    },
+    {
+      "name": "VirulBlockRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_block_recipe"
+    },
+    {
+      "name": "VirulIngotRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "virul_ingot_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "advancements.get_virul_ingot.title": "Aquire Venomware",
       "advancements.get_frost_shard.title": "Shard of the Cold",
       "item.lom.ender_shard": "Ender Shard",
       "itemGroup.tablom_blocks": "LOM Blocks",
       "item.lom.ancient_gem": "Ancient Gem",
       "advancements.get_ender_shard.title": "Shard of The End",
-      "advancements.get_citrium_ingot.descr": "Obtain a citrium ingot",
+      "advancements.get_citrium_ingot.descr": "Smelt a citrium ingot",
+      "item.lom.virul_leggings": "Virul Leggings",
       "advancements.get_ancient_shard.title": "Shard of the Past",
+      "advancements.get_virul_ingot.descr": "Smel a virul ingot",
       "item.lom.pelagic_shard": "Pelagic Shard",
       "block.lom.blockof_citrium": "Block of Citrium",
       "item.lom.pelagic_helmet": "Pelagic Helm",
       "item.lom.pelagic_chestplate": "Pelagic Body",
       "item.lom.citrium_chestplate": "Citrium Chestplate",
       "advancements.get_ender_shard.descr": "Obtain an ender shard",
+      "item.lom.virul_helmet": "Virul Helmet",
       "advancements.get_any_shard.title": "Shards of Power",
       "item.lom.citrium_axe": "Citrium Axe",
       "entity.lom.tiny_lizard": "Tiny Lizard",
@@ -1357,12 +1527,14 @@
       "itemGroup.tablom_armor": "LOM Armor",
       "item.lom.pebble": "Pebble",
       "item.lom.fire_book_1": "Spell Book: Fire I",
+      "block.lom.virul_ore": "Virul Ore",
       "entity.lom.dust_devil": "Dust Devil",
       "item.lom.citrium_leggings": "Citrium Leggings",
       "advancements.ancient_guardian_slain.title": "The First of Many",
       "advancements.get_ancient_shard.descr": "Obtain an ancient shard",
+      "block.lom.block_of_virul": "Block Of Virul",
       "item.lom.citrium_boots": "Citrium Boots",
-      "advancements.get_citrium_ingot.title": "Get Citrium Ingot",
+      "advancements.get_citrium_ingot.title": "Citrine",
       "entity.lom.yellow_shard_lizard": "Yellow Shard Lizard",
       "item.lom.pelagic_gem": "Pelagic Gem",
       "itemGroup.tablom_items": "LOM Items",
@@ -1375,12 +1547,11 @@
       "item.lom.frost_gem": "Frost Gem",
       "entity.lom.rock_lizard": "Rock Lizard",
       "item.lom.netheric_gem": "Netheric Gem",
+      "item.lom.virulent_greatblade": "Virulent Greatblade",
       "advancements.get_pelagic_shard.descr": "Obtain a pelagic shard",
       "advancements.place_ancient_rock.title": "Construction Begins",
       "item.lom.citrium_pickaxe": "Citrium Pickaxe",
       "item.lom.ancient_relic": "Ancient Relic",
-      "advancements.citrium_ore_recipes.descr": "n/a",
-      "advancements.citrium_ore_recipes.title": "n/a",
       "itemGroup.tabunobtainable_items": "Unobtainable Items",
       "item.lom.citrium_ingot": "Citrium Ingot",
       "block.lom.mossy_ancient_rock": "Mossy Ancient Rock",
@@ -1389,6 +1560,7 @@
       "item.lom.pelagic_boots": "Pelagic Boots",
       "advancements.get_mana_dust.title": "Mana Power",
       "item.lom.netheric_shard": "Netheric Shard",
+      "item.lom.virul_boots": "Virul Boots",
       "advancements.get_mana_dust.descr": "Create mana powder",
       "advancements.place_ancient_rock.descr": "Craft and place an ancient rock",
       "item.lom.powder_sand": "Powder Sand",
@@ -1406,7 +1578,9 @@
       "advancements.get_pelagic_shard.title": "Shard of the Ocean",
       "item.lom.tiny_lizard_spawn_egg": "Tiny Lizard Spawn Egg",
       "advancements.ancient_guardian_slain.descr": "Slay an Ancient Guardian",
-      "item.lom.rock_lizard_spawn_egg": "Rock Lizard Spawn Egg"
+      "item.lom.virul_ingot": "Virul Ingot",
+      "item.lom.rock_lizard_spawn_egg": "Rock Lizard Spawn Egg",
+      "item.lom.virul_chestplate": "Virul Chestplate"
     }
   },
   "foldersRoot": {
