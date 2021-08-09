@@ -1329,7 +1329,8 @@
   "workspaceSettings": {
     "modid": "lom",
     "modName": "Lands of Mayhem",
-    "version": "0.1",
+    "version": "v0.1-prealpha",
+    "description": "The world of Minecraft has changed, what will you find in these Lands of Mayhem?",
     "author": "KingKoishi, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",

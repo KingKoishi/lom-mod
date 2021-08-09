@@ -4,11 +4,14 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="lom"
-version="0.1"
+version="v0.1-prealpha"
 displayName="Lands of Mayhem"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
 authors="KingKoishi, MCreator"
+description='''
+The world of Minecraft has changed, what will you find in these Lands of Mayhem?
+'''
 
 [[dependencies.lom]]
     modId="minecraft"
