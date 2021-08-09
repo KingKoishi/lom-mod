@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "achievement",
   "definition": {
-    "achievementName": "Ancient Past Unearthed",
+    "achievementName": "Shard of the Past",
     "achievementDescription": "Obtain an ancient shard",
     "achievementIcon": {
       "value": "CUSTOM:AncientShard"
