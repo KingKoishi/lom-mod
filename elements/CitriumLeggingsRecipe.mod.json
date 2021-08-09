@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "citrium_leggings",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CitriumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Citrium.legs"
+    },
+    "name": "citrium_leggings_recipe",
+    "namespace": "mod"
+  }
+}

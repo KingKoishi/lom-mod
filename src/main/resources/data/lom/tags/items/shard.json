@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "lom:ancient_shard",
+    "lom:frost_shard",
+    "lom:pelagic_shard",
+    "minecraft:prismarine_shard",
+    "lom:netheric_shard",
+    "lom:ender_shard"
+  ]
+}

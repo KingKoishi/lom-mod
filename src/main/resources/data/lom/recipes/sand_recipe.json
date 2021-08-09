@@ -1,0 +1,26 @@
+{
+  "group": "sand",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:powder_sand"
+    },
+    "1": {
+      "item": "lom:powder_sand"
+    },
+    "2": {
+      "item": "lom:powder_sand"
+    },
+    "3": {
+      "item": "lom:powder_sand"
+    }
+  },
+  "result": {
+    "item": "minecraft:sand",
+    "count": 1
+  }
+}

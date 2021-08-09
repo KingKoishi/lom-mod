@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "lom:frost_shard"
+    },
+    "title": {
+      "translate": "advancements.get_frost_shard.title"
+    },
+    "description": {
+      "translate": "advancements.get_frost_shard.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_frost_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lom:frost_shard",
+            "count": {
+              "min": 1,
+              "max": 500
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "lom:frost_gem_recipe",
+      "lom:frost_knife_recipe"
+    ]
+  },
+  "parent": "lom:get_any_shard"
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "pelagic_gem",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PelagicShard"
+      },
+      {
+        "value": "CUSTOM:PelagicShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PelagicShard"
+      },
+      {
+        "value": "CUSTOM:PelagicShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PelagicGem"
+    },
+    "name": "pelagic_gem_recipe",
+    "namespace": "mod"
+  }
+}

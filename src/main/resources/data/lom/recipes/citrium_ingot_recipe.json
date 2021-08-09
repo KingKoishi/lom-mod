@@ -1,0 +1,13 @@
+{
+  "group": "citrium_ingot",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lom:blockof_citrium"
+    }
+  ],
+  "result": {
+    "item": "lom:citrium_ingot",
+    "count": 9
+  }
+}

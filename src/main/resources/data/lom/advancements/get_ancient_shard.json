@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "lom:ancient_shard"
+    },
+    "title": {
+      "translate": "advancements.get_ancient_shard.title"
+    },
+    "description": {
+      "translate": "advancements.get_ancient_shard.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_ancient_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lom:ancient_shard",
+            "count": {
+              "min": 1,
+              "max": 500
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "lom:ancient_rock_recipe"
+    ]
+  },
+  "parent": "lom:get_any_shard"
+}

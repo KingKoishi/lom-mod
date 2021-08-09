@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "frost_gem",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FrostShard"
+      },
+      {
+        "value": "CUSTOM:FrostShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FrostShard"
+      },
+      {
+        "value": "CUSTOM:FrostShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FrostGem"
+    },
+    "name": "frost_gem_recipe",
+    "namespace": "mod"
+  }
+}

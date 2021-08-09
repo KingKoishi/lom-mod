@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "frost_knife",
+    "customModelName": "Normal",
+    "name": "Frost Knife",
+    "specialInfo": [
+      "Inflicts:",
+      "Slowness (0:10)"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:LOMTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 3.0,
+    "attackSpeed": 1.8,
+    "enchantability": 9,
+    "damageVsEntity": 2.5,
+    "usageCount": 150,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:FrostGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "FrostKnifeLivingEntityIsHitWithTool"
+    }
+  }
+}

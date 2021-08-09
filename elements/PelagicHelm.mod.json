@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "pelagic_helm",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PelagicGem"
+      },
+      {
+        "value": "CUSTOM:PelagicGem"
+      },
+      {
+        "value": "CUSTOM:PelagicGem"
+      },
+      {
+        "value": "CUSTOM:PelagicGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PelagicGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pelagic.helmet"
+    },
+    "name": "pelagic_helm",
+    "namespace": "mod"
+  }
+}

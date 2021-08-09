@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:YellowShardLizard"
+      },
+      {
+        "value": "EntityTurtle"
+      },
+      {
+        "value": "CUSTOM:TinyLizard"
+      },
+      {
+        "value": "CUSTOM:CryptSaildon"
+      },
+      {
+        "value": "CUSTOM:RockLizard"
+      }
+    ],
+    "name": "reptile",
+    "namespace": "forge"
+  }
+}

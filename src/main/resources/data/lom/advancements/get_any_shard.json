@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "title": {
+      "translate": "advancements.get_any_shard.title"
+    },
+    "description": {
+      "translate": "advancements.get_any_shard.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_any_shard": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "lom:lands_of_mayhem"
+}

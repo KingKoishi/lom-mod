@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "ender_gem",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EnderShard"
+      },
+      {
+        "value": "CUSTOM:EnderShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnderShard"
+      },
+      {
+        "value": "CUSTOM:EnderShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnderGem"
+    },
+    "name": "ender_gem_recipe",
+    "namespace": "mod"
+  }
+}

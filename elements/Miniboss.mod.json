@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityElderGuardian"
+      }
+    ],
+    "name": "miniboss",
+    "namespace": "forge"
+  }
+}

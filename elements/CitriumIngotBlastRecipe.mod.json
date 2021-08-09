@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 0.7,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "citrium_ingot",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:CitriumOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:CitriumIngot"
+    },
+    "name": "citrium_ingot_blast_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "pelagic_gem",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:pelagic_shard"
+    },
+    "1": {
+      "item": "lom:pelagic_shard"
+    },
+    "2": {
+      "item": "lom:pelagic_shard"
+    },
+    "3": {
+      "item": "lom:pelagic_shard"
+    }
+  },
+  "result": {
+    "item": "lom:pelagic_gem",
+    "count": 1
+  }
+}

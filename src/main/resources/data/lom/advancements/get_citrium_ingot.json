@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "lom:citrium_ingot"
+    },
+    "title": {
+      "translate": "advancements.get_citrium_ingot.title"
+    },
+    "description": {
+      "translate": "advancements.get_citrium_ingot.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_citrium_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lom:citrium_ingot",
+            "count": {
+              "min": 1,
+              "max": 500
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "lom:citrium_block_recipe",
+      "lom:citrium_ingot_recipe",
+      "lom:citrium_sword_recipe",
+      "lom:citrium_pickaxe_recipe",
+      "lom:citrium_axe_recipe",
+      "lom:citrium_shovel_recipe",
+      "lom:citrium_hoe_recipe",
+      "lom:citrium_helmet_recipe",
+      "lom:citrium_chestplate_recipe",
+      "lom:citrium_leggings_recipe",
+      "lom:citrium_boots_recipe"
+    ]
+  },
+  "parent": "lom:lands_of_mayhem"
+}

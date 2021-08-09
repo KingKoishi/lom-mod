@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "LOM Tools",
+    "icon": {
+      "value": "CUSTOM:CitruimPickaxe"
+    },
+    "showSearch": false
+  }
+}

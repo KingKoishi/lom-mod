@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "reinforced_ender_blade",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:EnderBlade"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:ReinforcedEnderBlade"
+    },
+    "name": "reinforce_ender_blade_smithing",
+    "namespace": "mod"
+  }
+}

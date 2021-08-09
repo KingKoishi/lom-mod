@@ -1,0 +1,26 @@
+{
+  "group": "netheric_gem",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:netheric_shard"
+    },
+    "1": {
+      "item": "lom:netheric_shard"
+    },
+    "2": {
+      "item": "lom:netheric_shard"
+    },
+    "3": {
+      "item": "lom:netheric_shard"
+    }
+  },
+  "result": {
+    "item": "lom:netheric_gem",
+    "count": 1
+  }
+}

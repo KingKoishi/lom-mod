@@ -1,0 +1,1303 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "AncientRock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_rock"
+    },
+    {
+      "name": "AncientShard",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_shard"
+    },
+    {
+      "name": "LOMBlocks",
+      "type": "tab",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lom_blocks"
+    },
+    {
+      "name": "LOMItems",
+      "type": "tab",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lom_items"
+    },
+    {
+      "name": "AncientRockRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_rock_recipe"
+    },
+    {
+      "name": "YellowShardLizard",
+      "type": "mob",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_shard_lizard"
+    },
+    {
+      "name": "YShardLizard",
+      "type": "loottable",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "y_shard_lizard"
+    },
+    {
+      "name": "Reptile",
+      "type": "tag",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reptile"
+    },
+    {
+      "name": "MossyAncientRock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_ancient_rock"
+    },
+    {
+      "name": "MossyAncientRockB",
+      "type": "loottable",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_ancient_rock_b"
+    },
+    {
+      "name": "TinyLizard",
+      "type": "mob",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tiny_lizard"
+    },
+    {
+      "name": "AncientRelic",
+      "type": "gun",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_relic"
+    },
+    {
+      "name": "AncientRelicRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_relic_recipe"
+    },
+    {
+      "name": "Boss",
+      "type": "tag",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boss"
+    },
+    {
+      "name": "Miniboss",
+      "type": "tag",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miniboss"
+    },
+    {
+      "name": "LandsOfMayhem",
+      "type": "achievement",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lands_of_mayhem"
+    },
+    {
+      "name": "GetAncientShard",
+      "type": "achievement",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_ancient_shard"
+    },
+    {
+      "name": "PlaceAncientRock",
+      "type": "achievement",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "place_ancient_rock"
+    },
+    {
+      "name": "Player",
+      "type": "tag",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "player"
+    },
+    {
+      "name": "AncientGuardianEntityDies",
+      "type": "procedure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_guardian_entity_dies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AncientGuardian",
+      "type": "mob",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_guardian"
+    },
+    {
+      "name": "RelicSpawnAncientGuardian",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "relic_spawn_ancient_guardian",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AncientGuard",
+      "type": "loottable",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_guard"
+    },
+    {
+      "name": "Construct",
+      "type": "tag",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "construct"
+    },
+    {
+      "name": "LOMCreatures",
+      "type": "tab",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lom_creatures"
+    },
+    {
+      "name": "Elemental",
+      "type": "tag",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elemental"
+    },
+    {
+      "name": "BaseStone",
+      "type": "tag",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_stone"
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_blocks"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "BeaconBaseBlockBlocks",
+      "type": "tag",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beacon_base_block_blocks"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leave_blocks"
+    },
+    {
+      "name": "FireBlocks",
+      "type": "tag",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_blocks"
+    },
+    {
+      "name": "DragonImmuneBlocks",
+      "type": "tag",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_immune_blocks"
+    },
+    {
+      "name": "WitherImmuneBlocks",
+      "type": "tag",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_immune_blocks"
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plank_items"
+    },
+    {
+      "name": "CryptSaildon",
+      "type": "mob",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crypt_saildon"
+    },
+    {
+      "name": "CryptSail",
+      "type": "loottable",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crypt_sail"
+    },
+    {
+      "name": "JoinWorld",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "join_world",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AncientGem",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_gem"
+    },
+    {
+      "name": "YellowShardLizardOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_shard_lizard_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AncientGuardianSlain",
+      "type": "achievement",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_guardian_slain"
+    },
+    {
+      "name": "FrostShard",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frost_shard"
+    },
+    {
+      "name": "FrostGem",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frost_gem"
+    },
+    {
+      "name": "PelagicShard",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pelagic_shard"
+    },
+    {
+      "name": "PelagicGem",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pelagic_gem"
+    },
+    {
+      "name": "FrostGemRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frost_gem_recipe"
+    },
+    {
+      "name": "PelagicGemRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pelagic_gem_recipe"
+    },
+    {
+      "name": "FrostShardDropInColdBiome",
+      "type": "procedure",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frost_shard_drop_in_cold_biome",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PelagicShardDropInWaterBiome",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pelagic_shard_drop_in_water_biome",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GetFrostShard",
+      "type": "achievement",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_frost_shard"
+    },
+    {
+      "name": "GetPelagicShard",
+      "type": "achievement",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_pelagic_shard"
+    },
+    {
+      "name": "FrostKnifeLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frost_knife_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FrostKnife",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frost_knife"
+    },
+    {
+      "name": "FrostKnifeRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frost_knife_recipe"
+    },
+    {
+      "name": "PelagicHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pelagic_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pelagic",
+      "type": "armor",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pelagic",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "PelagicHelm",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pelagic_helm"
+    },
+    {
+      "name": "DustDevil",
+      "type": "mob",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_devil"
+    },
+    {
+      "name": "PowderSand",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powder_sand"
+    },
+    {
+      "name": "SandRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sand_recipe"
+    },
+    {
+      "name": "DustDev",
+      "type": "loottable",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_dev"
+    },
+    {
+      "name": "PowderSandItemInInventoryTick",
+      "type": "procedure",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powder_sand_item_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CitriumOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_ore"
+    },
+    {
+      "name": "CitriumIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_ingot"
+    },
+    {
+      "name": "CitriumIngotFurnaceRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_ingot_furnace_recipe"
+    },
+    {
+      "name": "CitriumIngotBlastRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_ingot_blast_recipe"
+    },
+    {
+      "name": "CitriumSword",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_sword"
+    },
+    {
+      "name": "CitruimPickaxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citruim_pickaxe"
+    },
+    {
+      "name": "CitriumAxe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_axe"
+    },
+    {
+      "name": "CitriumShovel",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_shovel"
+    },
+    {
+      "name": "CitriumHoe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_hoe"
+    },
+    {
+      "name": "LOMTools",
+      "type": "tab",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lom_tools"
+    },
+    {
+      "name": "Citrium",
+      "type": "armor",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LOMArmor",
+      "type": "tab",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lom_armor"
+    },
+    {
+      "name": "BlockofCitrium",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockof_citrium"
+    },
+    {
+      "name": "CitriumBlockRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_block_recipe"
+    },
+    {
+      "name": "CitriumIngotRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_ingot_recipe"
+    },
+    {
+      "name": "CitriumSwordRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_sword_recipe"
+    },
+    {
+      "name": "CitriumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_pickaxe_recipe"
+    },
+    {
+      "name": "CitriumAxeRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_axe_recipe"
+    },
+    {
+      "name": "CitriumShovelRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_shovel_recipe"
+    },
+    {
+      "name": "CitriumHoeRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_hoe_recipe"
+    },
+    {
+      "name": "CitriumHelmetRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_helmet_recipe"
+    },
+    {
+      "name": "CitriumChestplateRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_chestplate_recipe"
+    },
+    {
+      "name": "CitriumLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_leggings_recipe"
+    },
+    {
+      "name": "CitriumBootsRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_boots_recipe"
+    },
+    {
+      "name": "GetCitriumIngot",
+      "type": "achievement",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_citrium_ingot"
+    },
+    {
+      "name": "CitriumOreRecipes",
+      "type": "achievement",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "citrium_ore_recipes"
+    },
+    {
+      "name": "UnobtainableItems",
+      "type": "tab",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unobtainable_items"
+    },
+    {
+      "name": "Shard",
+      "type": "tag",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shard"
+    },
+    {
+      "name": "GetAnyShard",
+      "type": "achievement",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_any_shard"
+    },
+    {
+      "name": "CheckIfAnyShardIsInPlayerInventory",
+      "type": "procedure",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "check_if_any_shard_is_in_player_inventory",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NethericShard",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netheric_shard"
+    },
+    {
+      "name": "NethericGem",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netheric_gem"
+    },
+    {
+      "name": "EnderShard",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_shard"
+    },
+    {
+      "name": "EnderGem",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_gem"
+    },
+    {
+      "name": "NethericShardDropInNether",
+      "type": "procedure",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netheric_shard_drop_in_nether",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnderShardDropInTheEnd",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_shard_drop_in_the_end",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NethericGemRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netheric_gem_recipe"
+    },
+    {
+      "name": "EnderGemRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_gem_recipe"
+    },
+    {
+      "name": "EndermanOverride",
+      "type": "loottable",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderman_override"
+    },
+    {
+      "name": "EnderDragonOverride",
+      "type": "loottable",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_dragon_override"
+    },
+    {
+      "name": "EnderBlade",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_blade"
+    },
+    {
+      "name": "EnderBladeRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_blade_recipe"
+    },
+    {
+      "name": "ReinforcedEnderBlade",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_ender_blade"
+    },
+    {
+      "name": "ReinforceEnderBladeSmithing",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforce_ender_blade_smithing"
+    },
+    {
+      "name": "GetNethericShard",
+      "type": "achievement",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_netheric_shard"
+    },
+    {
+      "name": "GetEnderShard",
+      "type": "achievement",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_ender_shard"
+    },
+    {
+      "name": "DustDevilOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_devil_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DustDevilSmoke",
+      "type": "particle",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_devil_smoke"
+    },
+    {
+      "name": "RockLizardOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_lizard_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RockLizard",
+      "type": "mob",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_lizard"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.get_frost_shard.title": "Shard of the Cold",
+      "item.lom.ender_shard": "Ender Shard",
+      "itemGroup.tablom_blocks": "LOM Blocks",
+      "item.lom.ancient_gem": "Ancient Gem",
+      "advancements.get_ender_shard.title": "Shard of The End",
+      "advancements.get_citrium_ingot.descr": "Obtain a citrium ingot",
+      "advancements.get_ancient_shard.title": "Ancient Past Unearthed",
+      "item.lom.pelagic_shard": "Pelagic Shard",
+      "block.lom.blockof_citrium": "Block of Citrium",
+      "item.lom.pelagic_helmet": "Pelagic Helm",
+      "item.lom.pelagic_chestplate": "Pelagic Body",
+      "item.lom.citrium_chestplate": "Citrium Chestplate",
+      "advancements.get_ender_shard.descr": "Obtain an ender shard",
+      "advancements.get_any_shard.title": "Shards of Power",
+      "item.lom.citrium_axe": "Citrium Axe",
+      "entity.lom.tiny_lizard": "Tiny Lizard",
+      "advancements.get_frost_shard.descr": "Obtain a frost shard",
+      "advancements.lands_of_mayhem.title": "Lands of Mayhem",
+      "item.lom.pelagic_leggings": "Pelagic Leggings",
+      "advancements.lands_of_mayhem.descr": "A new set of worlds to explore, and creatures to discover",
+      "block.lom.citrium_ore": "Citrium Ore",
+      "advancements.get_any_shard.descr": "Obtain any shard item",
+      "item.lom.frost_shard": "Frost Shard",
+      "advancements.get_netheric_shard.descr": "Obtain a netheric shard",
+      "item.lom.citrium_sword": "Citrium Sword",
+      "item.lom.frost_knife": "Frost Knife",
+      "itemGroup.tablom_armor": "LOM Armor",
+      "entity.lom.dust_devil": "Dust Devil",
+      "item.lom.citrium_leggings": "Citrium Leggings",
+      "advancements.ancient_guardian_slain.title": "The First of Many",
+      "advancements.get_ancient_shard.descr": "Obtain an ancient shard",
+      "item.lom.citrium_boots": "Citrium Boots",
+      "advancements.get_citrium_ingot.title": "Get Citrium Ingot",
+      "entity.lom.yellow_shard_lizard": "Yellow Shard Lizard",
+      "item.lom.pelagic_gem": "Pelagic Gem",
+      "itemGroup.tablom_items": "LOM Items",
+      "item.lom.reinforced_ender_blade": "Ender Blade",
+      "item.lom.dust_devil_spawn_egg": "Dust Devil Spawn Egg",
+      "entity.lom.ancient_guardian": "Ancient Guardian",
+      "item.lom.citrium_helmet": "Citrium Helmet",
+      "item.lom.frost_gem": "Frost Gem",
+      "entity.lom.rock_lizard": "Rock Lizard",
+      "item.lom.netheric_gem": "Netheric Gem",
+      "advancements.get_pelagic_shard.descr": "Obtain a pelagic shard",
+      "advancements.place_ancient_rock.title": "Construction Begins",
+      "item.lom.ancient_relic": "Ancient Relic",
+      "advancements.citrium_ore_recipes.descr": "n/a",
+      "advancements.citrium_ore_recipes.title": "n/a",
+      "itemGroup.tabunobtainable_items": "Unobtainable Items",
+      "item.lom.citrium_ingot": "Citrium Ingot",
+      "block.lom.mossy_ancient_rock": "Mossy Ancient Rock",
+      "item.lom.ender_blade": "Ender Blade",
+      "block.lom.ancient_rock": "Ancient Rock",
+      "item.lom.pelagic_boots": "Pelagic Boots",
+      "item.lom.netheric_shard": "Netheric Shard",
+      "advancements.place_ancient_rock.descr": "Craft and place an ancient rock",
+      "item.lom.powder_sand": "Powder Sand",
+      "item.lom.citrium_shovel": "Citrium Shovel",
+      "item.lom.ancient_guardian_spawn_egg": "Ancient Guardian Spawn Egg",
+      "item.lom.citrium_hoe": "Citrium Hoe",
+      "advancements.get_netheric_shard.title": "Shard of the Nether",
+      "item.lom.ender_gem": "Ender Gem",
+      "item.lom.ancient_shard": "Ancient Shard",
+      "item.lom.yellow_shard_lizard_spawn_egg": "Yellow Shard Lizard Spawn Egg",
+      "itemGroup.tablom_creatures": "LOM Creatures",
+      "itemGroup.tablom_tools": "LOM Tools",
+      "item.lom.citruim_pickaxe": "Citruim Pickaxe",
+      "item.lom.crypt_saildon_spawn_egg": "Crypt Saildon Spawn Egg",
+      "entity.lom.crypt_saildon": "Crypt Saildon",
+      "advancements.get_pelagic_shard.title": "Shard of the Ocean",
+      "item.lom.tiny_lizard_spawn_egg": "Tiny Lizard Spawn Egg",
+      "advancements.ancient_guardian_slain.descr": "Slay an Ancient Guardian",
+      "item.lom.rock_lizard_spawn_egg": "Rock Lizard Spawn Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "lom",
+    "modName": "Lands of Mayhem",
+    "version": "0.1",
+    "author": "KingKoishi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.lom",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

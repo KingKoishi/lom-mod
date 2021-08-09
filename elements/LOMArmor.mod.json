@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "LOM Armor",
+    "icon": {
+      "value": "CUSTOM:Citrium.body"
+    },
+    "showSearch": false
+  }
+}

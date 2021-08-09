@@ -1,0 +1,12 @@
+{
+  "group": "citrium_ingot",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "lom:citrium_ore"
+  },
+  "result": {
+    "item": "lom:citrium_ingot"
+  }
+}

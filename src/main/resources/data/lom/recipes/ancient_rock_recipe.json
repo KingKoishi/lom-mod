@@ -1,0 +1,42 @@
+{
+  "group": "ancient_rock",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:ancient_shard"
+    },
+    "1": {
+      "item": "lom:ancient_shard"
+    },
+    "2": {
+      "item": "lom:ancient_shard"
+    },
+    "3": {
+      "item": "lom:ancient_shard"
+    },
+    "4": {
+      "item": "lom:ancient_shard"
+    },
+    "5": {
+      "item": "lom:ancient_shard"
+    },
+    "6": {
+      "item": "lom:ancient_shard"
+    },
+    "7": {
+      "item": "lom:ancient_shard"
+    },
+    "8": {
+      "item": "lom:ancient_shard"
+    }
+  },
+  "result": {
+    "item": "lom:ancient_rock",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "citrium_helmet",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:citrium_ingot"
+    },
+    "1": {
+      "item": "lom:citrium_ingot"
+    },
+    "2": {
+      "item": "lom:citrium_ingot"
+    },
+    "3": {
+      "item": "lom:citrium_ingot"
+    },
+    "5": {
+      "item": "lom:citrium_ingot"
+    }
+  },
+  "result": {
+    "item": "lom:citrium_helmet",
+    "count": 1
+  }
+}

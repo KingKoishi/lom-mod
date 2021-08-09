@@ -1,0 +1,26 @@
+{
+  "group": "frost_gem",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:frost_shard"
+    },
+    "1": {
+      "item": "lom:frost_shard"
+    },
+    "2": {
+      "item": "lom:frost_shard"
+    },
+    "3": {
+      "item": "lom:frost_shard"
+    }
+  },
+  "result": {
+    "item": "lom:frost_gem",
+    "count": 1
+  }
+}

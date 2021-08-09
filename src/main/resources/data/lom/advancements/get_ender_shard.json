@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "item": "lom:ender_shard"
+    },
+    "title": {
+      "translate": "advancements.get_ender_shard.title"
+    },
+    "description": {
+      "translate": "advancements.get_ender_shard.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_ender_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lom:ender_shard",
+            "count": {
+              "min": 1,
+              "max": 500
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "lom:ender_gem_recipe",
+      "lom:ender_blade_recipe",
+      "lom:reinforce_ender_blade_smithing"
+    ]
+  },
+  "parent": "lom:get_any_shard"
+}

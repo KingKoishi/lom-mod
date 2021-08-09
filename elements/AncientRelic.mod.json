@@ -1,0 +1,45 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "ancient_relic",
+    "customModelName": "Normal",
+    "name": "Ancient Relic",
+    "specialInfo": [
+      "Summons the Ancient Guardian"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:LOMCreatures"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": "CUSTOM:AncientRelic"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.snowball.throw"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.75,
+    "bulletDamage": 0.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:AncientRelic"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "RelicSpawnAncientGuardian"
+    },
+    "onBulletHitsEntity": {
+      "name": "RelicSpawnAncientGuardian"
+    }
+  }
+}

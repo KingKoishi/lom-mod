@@ -1,0 +1,32 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AncientShard"
+      },
+      {
+        "value": "CUSTOM:FrostShard"
+      },
+      {
+        "value": "CUSTOM:PelagicShard"
+      },
+      {
+        "value": "Items.PRISMARINE_SHARD"
+      },
+      {
+        "value": "CUSTOM:NethericShard"
+      },
+      {
+        "value": "CUSTOM:EnderShard"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "shard",
+    "namespace": "mod"
+  }
+}

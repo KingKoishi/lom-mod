@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ender_blade",
+    "customModelName": "Normal",
+    "name": "Ender Blade",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:LOMTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 10.0,
+    "attackSpeed": 1.6,
+    "enchantability": 16,
+    "damageVsEntity": 5.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnderGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

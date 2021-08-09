@@ -1,0 +1,24 @@
+{
+  "group": "ender_blade",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:ender_gem"
+    },
+    "1": {
+      "item": "lom:ender_gem"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "lom:ender_blade",
+    "count": 1
+  }
+}

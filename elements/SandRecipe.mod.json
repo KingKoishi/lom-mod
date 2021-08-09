@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "sand",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PowderSand"
+      },
+      {
+        "value": "CUSTOM:PowderSand"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PowderSand"
+      },
+      {
+        "value": "CUSTOM:PowderSand"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SAND#0"
+    },
+    "name": "sand_recipe",
+    "namespace": "mod"
+  }
+}

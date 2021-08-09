@@ -1,0 +1,27 @@
+{
+  "group": "citrium_hoe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "lom:citrium_ingot"
+    },
+    "1": {
+      "item": "lom:citrium_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "lom:citrium_hoe",
+    "count": 1
+  }
+}

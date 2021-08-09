@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "lom:ancient_rock"
+    },
+    "title": {
+      "translate": "advancements.place_ancient_rock.title"
+    },
+    "description": {
+      "translate": "advancements.place_ancient_rock.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "place_ancient_rock": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "lom:ancient_rock"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "lom:ancient_relic_recipe"
+    ]
+  },
+  "parent": "lom:get_ancient_shard"
+}

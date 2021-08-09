@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "LOM Blocks",
+    "icon": {
+      "value": "CUSTOM:AncientRock"
+    },
+    "showSearch": false
+  }
+}

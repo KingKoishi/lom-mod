@@ -1,0 +1,21 @@
+{
+  "_fv": 18,
+  "_type": "particle",
+  "definition": {
+    "texture": "dust_devil_smoke.png",
+    "animate": true,
+    "frameDuration": 4,
+    "width": 0.2,
+    "height": 0.2,
+    "scale": 1.1,
+    "speedFactor": 0.19999999999999998,
+    "gravity": 0.25,
+    "maxAge": 7,
+    "maxAgeDiff": 3,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.0,
+    "canCollide": true,
+    "alwaysShow": false,
+    "renderType": "OPAQUE"
+  }
+}

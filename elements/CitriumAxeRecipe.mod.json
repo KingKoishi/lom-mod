@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "citrium_axe",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CitriumIngot"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CitriumAxe"
+    },
+    "name": "citrium_axe_recipe",
+    "namespace": "mod"
+  }
+}

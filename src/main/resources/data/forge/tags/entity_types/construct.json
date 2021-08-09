@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "lom:ancient_guardian",
+    "elder_guardian",
+    "guardian",
+    "iron_golem",
+    "snow_golem"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lom:blocks/ancient_rock",
+    "particle": "lom:blocks/ancient_rock"
+  }
+}

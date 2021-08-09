@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:AncientGuardian"
+      },
+      {
+        "value": "EntityElderGuardian"
+      },
+      {
+        "value": "EntityGuardian"
+      },
+      {
+        "value": "EntityIronGolem"
+      },
+      {
+        "value": "EntitySnowman"
+      }
+    ],
+    "name": "construct",
+    "namespace": "forge"
+  }
+}

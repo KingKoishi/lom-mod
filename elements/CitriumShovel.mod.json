@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "citrium_shovel",
+    "customModelName": "Normal",
+    "name": "Citrium Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:LOMTools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 3.5,
+    "usageCount": 400,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:CitriumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
