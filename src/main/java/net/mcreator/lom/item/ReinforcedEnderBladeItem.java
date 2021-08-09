@@ -8,6 +8,7 @@ import net.minecraft.item.SwordItem;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
+import net.minecraft.block.Blocks;
 
 import net.mcreator.lom.itemgroup.LOMToolsItemGroup;
 import net.mcreator.lom.LomModElements;
@@ -44,7 +45,7 @@ public class ReinforcedEnderBladeItem extends LomModElements.ModElement {
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(EnderGemItem.block, (int) (1)));
+				return Ingredient.fromStacks(new ItemStack(EnderGemItem.block, (int) (1)), new ItemStack(Blocks.OBSIDIAN, (int) (1)));
 			}
 		}, 3, -2.4f, new Item.Properties().group(LOMToolsItemGroup.tab)) {
 		}.setRegistryName("reinforced_ender_blade"));

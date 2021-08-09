@@ -22,6 +22,9 @@
     "repairItems": [
       {
         "value": "CUSTOM:EnderGem"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
       }
     ],
     "immuneToFire": false,
