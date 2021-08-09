@@ -1,0 +1,30 @@
+{
+  "group": "fire_book_1",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:charcoal"
+    },
+    "3": {
+      "item": "minecraft:charcoal"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:charcoal"
+    },
+    "7": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "lom:fire_book_1",
+    "count": 1
+  }
+}

@@ -1240,6 +1240,86 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ender_dragon_override"
+    },
+    {
+      "name": "ManaDust",
+      "type": "item",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_dust"
+    },
+    {
+      "name": "FireSpellBullet",
+      "type": "item",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_spell_bullet"
+    },
+    {
+      "name": "ManaDustRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_dust_recipe"
+    },
+    {
+      "name": "FireBook1BulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_book_1_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FireBook1",
+      "type": "gun",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_book_1"
+    },
+    {
+      "name": "FireBook1Recipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_book_1_recipe"
+    },
+    {
+      "name": "GetLapis",
+      "type": "achievement",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_lapis"
+    },
+    {
+      "name": "GetManaDust",
+      "type": "achievement",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_mana_dust"
     }
   ],
   "variable_elements": [],
@@ -1265,6 +1345,8 @@
       "advancements.get_frost_shard.descr": "Obtain a frost shard",
       "advancements.lands_of_mayhem.title": "Lands of Mayhem",
       "item.lom.pelagic_leggings": "Pelagic Leggings",
+      "advancements.get_lapis.title": "Magic Mineral",
+      "advancements.get_lapis.descr": "Obtain lapis lazuli",
       "advancements.lands_of_mayhem.descr": "A new set of worlds to explore, and creatures to discover",
       "block.lom.citrium_ore": "Citrium Ore",
       "advancements.get_any_shard.descr": "Obtain any shard item",
@@ -1274,6 +1356,7 @@
       "item.lom.frost_knife": "Frost Knife",
       "itemGroup.tablom_armor": "LOM Armor",
       "item.lom.pebble": "Pebble",
+      "item.lom.fire_book_1": "Spell Book: Fire I",
       "entity.lom.dust_devil": "Dust Devil",
       "item.lom.citrium_leggings": "Citrium Leggings",
       "advancements.ancient_guardian_slain.title": "The First of Many",
@@ -1284,7 +1367,9 @@
       "item.lom.pelagic_gem": "Pelagic Gem",
       "itemGroup.tablom_items": "LOM Items",
       "item.lom.reinforced_ender_blade": "Ender Blade",
+      "item.lom.fire_spell_bullet": "Fire Spell Bullet",
       "item.lom.dust_devil_spawn_egg": "Dust Devil Spawn Egg",
+      "item.lom.mana_dust": "Mana Dust",
       "entity.lom.ancient_guardian": "Ancient Guardian",
       "item.lom.citrium_helmet": "Citrium Helmet",
       "item.lom.frost_gem": "Frost Gem",
@@ -1301,7 +1386,9 @@
       "item.lom.ender_blade": "Ender Blade",
       "block.lom.ancient_rock": "Ancient Rock",
       "item.lom.pelagic_boots": "Pelagic Boots",
+      "advancements.get_mana_dust.title": "Mana Power",
       "item.lom.netheric_shard": "Netheric Shard",
+      "advancements.get_mana_dust.descr": "Create mana powder",
       "advancements.place_ancient_rock.descr": "Craft and place an ancient rock",
       "item.lom.powder_sand": "Powder Sand",
       "item.lom.citrium_shovel": "Citrium Shovel",

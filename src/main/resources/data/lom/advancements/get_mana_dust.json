@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "lom:mana_dust"
+    },
+    "title": {
+      "translate": "advancements.get_mana_dust.title"
+    },
+    "description": {
+      "translate": "advancements.get_mana_dust.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_mana_dust": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lom:mana_dust",
+            "count": {
+              "min": 1,
+              "max": 500
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "lom:lands_of_mayhem"
+}

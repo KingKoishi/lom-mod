@@ -1,0 +1,42 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "spell_book_fire_power_1",
+    "customModelName": "Normal",
+    "name": "Spell Book: Fire I",
+    "specialInfo": [
+      "4.5 Magic Damage"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:LOMTools"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:ManaDust"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "block.enchantment_table.use"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 4.5,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:FireSpellBullet"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "FireBook1BulletHitsLivingEntity"
+    }
+  }
+}
