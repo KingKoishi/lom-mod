@@ -1223,6 +1223,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobblestone_recipe"
+    },
+    {
+      "name": "PebbleItemInInventoryTick",
+      "type": "procedure",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pebble_item_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
