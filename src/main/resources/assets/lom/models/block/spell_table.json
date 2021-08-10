@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lom:blocks/dark_oak_planks",
+    "up": "lom:blocks/spell_table_top",
+    "north": "lom:blocks/spell_table_side",
+    "east": "lom:blocks/spell_table_side",
+    "south": "lom:blocks/spell_table_side",
+    "west": "lom:blocks/spell_table_side",
+    "particle": "lom:blocks/dark_oak_planks"
+  }
+}

@@ -1486,6 +1486,81 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "virul_ingot_recipe"
+    },
+    {
+      "name": "SpellTable",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spell_table"
+    },
+    {
+      "name": "SpellTableRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spell_table_recipe"
+    },
+    {
+      "name": "PlaceSpellTable",
+      "type": "achievement",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "place_spell_table"
+    },
+    {
+      "name": "SpellBook",
+      "type": "tag",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spell_book"
+    },
+    {
+      "name": "CreateASpellBook",
+      "type": "achievement",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "create_a_spell_book"
+    },
+    {
+      "name": "CheckIfAnySpellBookIsInPlayerInventory",
+      "type": "procedure",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "check_if_any_spell_book_is_in_player_inventory",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SpellCrafting",
+      "type": "gui",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spell_crafting"
     }
   ],
   "variable_elements": [],
@@ -1509,11 +1584,13 @@
       "item.lom.citrium_chestplate": "Citrium Chestplate",
       "advancements.get_ender_shard.descr": "Obtain an ender shard",
       "item.lom.virul_helmet": "Virul Helmet",
+      "advancements.create_a_spell_book.title": "Novice Caster",
       "advancements.get_any_shard.title": "Shards of Power",
       "item.lom.citrium_axe": "Citrium Axe",
       "entity.lom.tiny_lizard": "Tiny Lizard",
       "advancements.get_frost_shard.descr": "Obtain a frost shard",
       "advancements.lands_of_mayhem.title": "Lands of Mayhem",
+      "advancements.create_a_spell_book.descr": "Create any spell book",
       "item.lom.pelagic_leggings": "Pelagic Leggings",
       "advancements.get_lapis.title": "Magic Mineral",
       "advancements.get_lapis.descr": "Obtain lapis lazuli",
@@ -1521,11 +1598,13 @@
       "block.lom.citrium_ore": "Citrium Ore",
       "advancements.get_any_shard.descr": "Obtain any shard item",
       "item.lom.frost_shard": "Frost Shard",
+      "block.lom.spell_table": "Spell Table",
       "advancements.get_netheric_shard.descr": "Obtain a netheric shard",
       "item.lom.citrium_sword": "Citrium Sword",
       "item.lom.frost_knife": "Frost Knife",
       "itemGroup.tablom_armor": "LOM Armor",
       "item.lom.pebble": "Pebble",
+      "advancements.place_spell_table.title": "Research Station",
       "item.lom.fire_book_1": "Spell Book: Fire I",
       "block.lom.virul_ore": "Virul Ore",
       "entity.lom.dust_devil": "Dust Devil",
@@ -1577,6 +1656,7 @@
       "entity.lom.crypt_saildon": "Crypt Saildon",
       "advancements.get_pelagic_shard.title": "Shard of the Ocean",
       "item.lom.tiny_lizard_spawn_egg": "Tiny Lizard Spawn Egg",
+      "advancements.place_spell_table.descr": "Craft and place a spell table (spell book recipe will eventually be transferred here, but for now it\u0027s a decoration)",
       "advancements.ancient_guardian_slain.descr": "Slay an Ancient Guardian",
       "item.lom.virul_ingot": "Virul Ingot",
       "item.lom.rock_lizard_spawn_egg": "Rock Lizard Spawn Egg",

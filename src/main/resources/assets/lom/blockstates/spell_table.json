@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lom:block/spell_table"
+    }
+  }
+}

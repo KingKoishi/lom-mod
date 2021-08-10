@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "spell_table",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CARPET"
+      },
+      {
+        "value": "Blocks.CARPET"
+      },
+      {
+        "value": "Blocks.CARPET"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "Items.DYE#4"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SpellTable"
+    },
+    "name": "spell_table_recipe",
+    "namespace": "mod"
+  }
+}
