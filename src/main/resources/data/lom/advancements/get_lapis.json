@@ -34,7 +34,8 @@
     "experience": 0,
     "recipes": [
       "lom:mana_dust_recipe",
-      "lom:fire_book_1_recipe"
+      "lom:fire_book_1_recipe",
+      "lom:spell_table_recipe"
     ]
   },
   "parent": "minecraft:story/upgrade_tools"

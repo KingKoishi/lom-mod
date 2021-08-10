@@ -15,7 +15,8 @@
     "rewardLoot": [],
     "rewardRecipes": [
       "ManaDustRecipe",
-      "FireBook1Recipe"
+      "FireBook1Recipe",
+      "SpellTableRecipe"
     ],
     "rewardFunction": "No function",
     "rewardXP": 0,
